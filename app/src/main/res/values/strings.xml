@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">関数花火</string>
+    <string name="fire_list_title">花火玉 一覧</string>
+    <string name="reload_button">更新</string>
+</resources>
